@@ -1,7 +1,7 @@
 # git-intro
 
 
-Cloned the professors repo and then create the wage_age.csv file using matplotlib and numpy. Then pushing it to github.
+Cloned the professor's repository and then create the wage_age.csv file using matplotlib and numpy. Then pushing it to github.
 git-intro
 
 A demo repository for assignment submission.
